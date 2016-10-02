@@ -1,0 +1,1453 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    background-image: url("back2.jpg");
+	background-position: top;
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	margin:0 auto;
+ 	background-color:#F89D0D;
+    background-size: auto 650px;
+}
+body#onamain {
+    background-image: url("back2.jpg");
+	background-position: top;
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	margin:0 auto;
+ 	background-color:#F89D0D;
+    background-size: auto 650px;
+}
+body#onmain {
+    background-image:url(onmain.jpg);
+	background-position: top;
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	margin:0 auto;
+ 	background-color:#F89D0D;
+    background-size: cover;
+}
+body#multimedijamain {
+    background-image:url(multimedijamain.jpg);
+	background-position: top;
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	margin:0 auto;
+ 	background-color:#F89D0D;
+    background-size: cover;
+}
+body#kucamain {
+    background-image:url(svezakucumain.jpg);
+	background-position: top;
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	margin:0 auto;
+ 	background-color:#F89D0D;
+    background-size: cover;
+}
+body#vozilamain {
+    background-image:url(vozilamain.jpg);
+	background-position: top;
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	margin:0 auto;
+ 	background-color:#F89D0D;
+    background-size: cover;
+}
+body#ljubimcimain {
+    background-image:url(ljubimcimain.jpg);
+	background-position: top;
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	margin:0 auto;
+ 	background-color:#F89D0D;
+    background-size: cover;
+}
+div#container
+{
+margin:0 auto;
+margin-top:80px;
+width:940px;
+height:571px;
+text-align:left;
+background-color:#EB0000;
+background-image:url(registerback.jpg);
+
+
+}
+div#menugore
+
+{
+clear:both;
+float:left;
+margin:0 auto;
+height:40px;
+width:934px;
+border-style:solid;
+border-color:#6A5636;
+background-color:#F89D0D;
+color:#8F0000;
+
+}
+.linkshop
+{
+	color:#8F0000;
+}
+div#menugoreona
+
+{
+clear:both;
+float:left;
+margin:0 auto;
+height:40px;
+width:934px;
+border-style:solid;
+border-color:#424242;
+background-color:#BC003F;
+color:#700025;
+
+}
+.linkona
+{
+	color:#700025;
+}
+div#menugoreon
+
+{
+clear:both;
+float:left;
+margin:0 auto;
+height:40px;
+width:934px;
+border-style:solid;
+border-color:#011055;
+background-color:#00348A;
+color:#09CFF4;
+
+}
+.linkon
+{
+	color:#09CFF4;
+}
+div#menugoremulti
+
+{
+clear:both;
+float:left;
+margin:0 auto;
+height:40px;
+width:934px;
+border-style:solid;
+border-color:#7D7D7D;
+background-color:#037982;
+color:#6FFEFE;
+}
+.linkmulti
+{
+	color:#6FFEFE;
+}
+
+div#menugoresvezakucu
+
+{
+clear:both;
+float:left;
+margin:0 auto;
+height:40px;
+width:934px;
+border-style:solid;
+border-color:#02000E;
+background-color:#8E6844;
+color:#35241D;
+}
+.linksvezakucu
+{
+	color:#35241D;
+}
+div#menugorevozila
+
+{
+clear:both;
+float:left;
+margin:0 auto;
+height:40px;
+width:934px;
+border-style:solid;
+border-color:#98979B;
+background-color:#75A0CD;
+color:#000213;
+}
+.linkvozila
+{
+	color:#000213;
+}
+div#menugoreljubimci
+
+{
+clear:both;
+float:left;
+margin:0 auto;
+height:40px;
+width:934px;
+border-style:solid;
+border-color:#A64417;
+background-color:#F36422;
+color:#0D0D0D;
+}
+.linkljubimci
+{
+	color:#0D0D0D;
+}
+div#registracija
+{
+float:left;
+margin: 1% 1% 0 1%;
+color: #EB0000;	
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#registracijaona
+{
+float:left;
+margin: 1% 1% 0 1%;
+color: #CC5452;	
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#registracijamulti
+{
+float:left;
+margin: 1% 1% 0 1%;
+color: #04C1CF;	
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}div#registracijasvezakucu
+{
+float:left;
+margin: 1% 1% 0 1%;
+color: #FFFFFF;	
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#registracijavozila
+{
+float:left;
+margin: 1% 1% 0 1%;
+color: #000213;	
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#registracijaljubimci
+{
+float:left;
+margin: 1% 1% 0 1%;
+color: #F2CC22;	
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+.border1
+{
+	float:left;
+	background-color:#6A5636;	
+	height:40px;
+    width:2px;
+}
+.border1ona
+{
+	float:left;
+	background-color:#424242;	
+	height:40px;
+    width:2px;
+}
+.border1on
+{
+	float:left;
+	background-color:#011055;	
+	height:40px;
+    width:2px;
+}
+.border1multi
+{
+	float:left;
+	background-color:#7D7D7D;	
+	height:40px;
+    width:2px;
+}
+.border1svezakucu
+{
+	float:left;
+	background-color:#02000E;	
+	height:40px;
+    width:2px;
+}
+.border1vozila
+{
+	float:left;
+	background-color:#98979B;	
+	height:40px;
+    width:2px;
+}
+.border1ljubimci
+{
+	float:left;
+	background-color:#A64417;	
+	height:40px;
+    width:2px;
+}
+div#ona
+{
+
+float:left;
+margin: 1% -3% 0 4%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#on
+{
+
+float:left;
+margin: 1% -4% 0 4%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}	
+div#multimedija
+{
+
+float:left;
+margin: 1% 0 0 2%;	
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}	
+div#svezakucu
+{
+
+float:left;
+margin: 1% 0 0 2%;	
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#vozila
+{
+
+float:left;
+margin: 1% -2% 0 4%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#ljubimci
+{
+
+float:left;
+margin: 1% -1% 0 3%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#ostalo
+{
+
+float:left;
+margin: 1% -2% 0 3.5%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:80px;
+}
+div#menulijevo
+
+{
+background-color:#F8B94F;
+clear:both;
+float:left;
+margin:0 auto;
+height:523px;
+width:119px;
+border-style:solid;
+border-color:#C18E3C;
+border-top-style:hidden;
+border-right-width:2px;
+border-right-color:#C18E3C;
+color:#AF0000;
+
+
+}
+div#menulijevoona
+
+{
+background-color:#CC003F;
+clear:both;
+float:left;
+margin:0 auto;
+height:523px;
+width:119px;
+border-style:solid;
+border-color:#C18E3C;
+border-top-style:hidden;
+border-right-width:2px;
+border-right-color:#803433;
+border-left-width:3px;
+border-left-color:#803433;
+color:#800028;
+font-style:italic;
+font-family:"Comic Sans MS", cursive, sans-serif;
+font-size:15px;
+}
+.llinkona
+{
+	color:#800028;
+}
+div#menulijevoon
+
+{
+background-color:#0052D6;
+clear:both;
+float:left;
+margin:0 auto;
+height:523px;
+width:119px;
+border-style:solid;
+border-color:#C18E3C;
+border-top-style:hidden;
+border-right-width:2px;
+border-right-color:#00348A;
+border-left-width:3px;
+border-left-color:#00348A;
+border-bottom-color:#00348A;
+color:#09BFF4;
+font-style:italic;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+}
+.llinkon
+{
+	color:#09BFF4;
+}
+div#menulijevomulti
+{
+background-color:#D1CC2B;
+clear:both;
+float:left;
+margin:0 auto;
+height:523px;
+width:119px;
+border-style:solid;
+border-color:#85811C;
+border-top-style:hidden;
+border-right-width:2px;
+border-left-width:3px;
+color:#5C8738;
+font-style:italic;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+}
+.llinkmulti
+{
+	color:#5C8738;
+}
+div#menulijevosvezakucu
+{
+background-color:#614630;
+clear:both;
+float:left;
+margin:0 auto;
+height:523px;
+width:119px;
+border-style:solid;
+border-color:#02000E;
+border-top-style:hidden;
+border-right-width:2px;
+border-left-width:3px;
+color:#35241D;
+font-style:italic;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+}
+.llinksvezakucu
+{
+	color:#35241D;
+}
+div#menulijevovozila
+{
+background-color:#CBD7E5;
+clear:both;
+float:left;
+margin:0 auto;
+height:523px;
+width:119px;
+border-style:solid;
+border-color:#98979B;
+border-top-style:hidden;
+border-right-width:2px;
+border-left-width:3px;
+color:#767579;
+font-style:italic;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+}
+.llinkvozila
+{
+	color:#767579;
+}
+div#menulijevoljubimci
+{
+background-color:#F8984B;
+clear:both;
+float:left;
+margin:0 auto;
+height:523px;
+width:119px;
+border-style:solid;
+border-color:#AB6933;
+border-top-style:hidden;
+border-right-width:2px;
+border-left-width:3px;
+color:#767579;
+font-style:italic;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+}
+.llinkljubimci
+{
+	color:#AF0000;
+}
+div#prijava
+{
+float:left;
+margin: 6% 0 0 27%;
+color:#DF0000 ;	
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+.border2
+{
+	margin-top:-7%;
+	float:left;
+	background-color:#C18E3C;	
+	height:2px;
+    width:120px;
+}
+.border2ona
+{
+	margin-top:-7%;
+	float:left;
+	background-color:#803433;	
+	height:2px;
+    width:120px;
+}
+.border2on
+{
+	margin-top:-7%;
+	float:left;
+	background-color:#00348A;	
+	height:2px;
+    width:120px;
+}
+.border2svezakucu
+{
+	margin-top:-7%;
+	float:left;
+	background-color:#02000E;	
+	height:2px;
+    width:120px;
+}
+.border2vozila
+{
+	margin-top:-7%;
+	float:left;
+	background-color:#98979B;	
+	height:2px;
+    width:120px;
+}
+.border2ljubimci
+{
+	margin-top:-7%;
+	float:left;
+	background-color:#AB6933;	
+	height:2px;
+    width:120px;
+}
+div#aukcije
+{
+
+float:left;
+margin: 6% 0 0 25%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#mojprofil
+{
+
+float:left;
+margin: 6% 0 0 20%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#korisnici
+{
+
+float:left;
+margin: 6% 0 0 23%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#predajoglas
+{
+
+float:left;
+margin: 6% 0 0 15%;	
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#kontakt
+{
+
+float:left;
+margin: 6% 0 0 25%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#registerlijevo
+{
+	margin: -5% 0 0 0;
+	float:left;
+	height:247px;
+    width:119px;
+	background-image:url(registerlijevo.jpeg);
+	background-size:cover;
+}
+div#homelijevo
+{
+float:left;
+width:408px;
+height: 525px;
+text-align:left;
+background-color:#AF0000;
+}
+div#prvalijevo
+{
+	width:408px;
+    height: 175px;
+	background-image:url(ona.jpeg);
+	background-size:cover;
+}
+div#drugalijevo
+{
+	width:408px;
+    height: 175px;
+	background-image:url(on.jpg);
+	background-size:cover;
+}
+div#trecalijevo
+{
+	width:408px;
+    height: 175px;
+	background-image:url(multimedija.jpg);
+	background-size:cover;
+}
+div#homedesno
+{
+float:left;
+width:408px;
+height: 525px;
+text-align:left;
+background-color:#AF0000;
+
+}
+div#prvadesno
+{
+	width:408px;
+    height: 175px;
+	background-image:url(svezakucu.jpg);
+	background-size:cover;
+}
+div#drugadesno
+{
+	width:408px;
+    height: 175px;
+	background-image:url(vozila.jpg);
+	background-size:cover;
+}div#trecadesno
+{
+	width:408px;
+    height: 175px;
+	background-image:url(ljubimci.jpg);
+	background-size:cover;
+}
+form#forma
+{
+	margin: 0 125px 0 125px;
+    float:left;
+    width:565px;
+    height: 525px;
+    text-align:left;
+    background-color:#F89000;
+	color: #530000;
+	
+
+}
+legend#rubforme
+{
+	color: #530000;
+	font-size:50px;
+}
+.forme
+{
+	font-size:18px;
+	text-align:left;
+	margin: -10px 0 0 0;
+	font-weight:bold;
+	
+}
+
+
+
+.forme_js
+{
+ margin: -20px 0 20px 450px;
+}
+
+
+
+
+
+
+
+
+p#prviinput
+{
+	margin: 20px 0 0 0;
+}
+.forma
+{
+	float:right;
+	margin: -20px 100px 0 0;
+	background-color:#F8B94F;
+	font-size:14px;
+	color:#9F1C21;
+	font-weight:bold;
+}
+fieldset#field
+{
+	border-color:#9F1C21;
+	border-style:solid;
+	height:503px;
+}
+select#dan
+{
+	margin: -20px 185px 0 0;
+
+}
+select#mjesec
+{
+	margin: -22px 250px 0 0;
+}
+select#godina
+{
+	margin: -22px -242px 0 0;
+}
+
+input#spolm
+{
+	margin: -25px 155px 0 0;
+}
+input#spolz
+{
+	margin: -25px 235px 0 0;
+}
+p#pspol
+{
+	margin: -20px 180px 0 0;
+}
+input#submit
+{
+	margin: 27px 172px 0 0;
+	font-size:18px;
+}
+.cipele
+{
+
+float:left;
+margin: 6% 0 0 28%;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+.hlace
+{
+
+float:left;
+margin: 6% 0 0 30%;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+.majce
+{
+
+float:left;
+margin: 6% 0 0 28%;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+.kozmetika
+{
+
+float:left;
+margin: 6% 0 0 20%;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+.donjerublje
+{
+
+float:left;
+margin: 6% 0 0 13%;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+.modnidodaci
+{
+
+float:left;
+margin: 6% 0 0 13%;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#muzika
+{
+
+float:left;
+margin: 6% 0 0 27%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#video
+{
+
+float:left;
+margin: 6% 0 0 30%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#mobiteli
+{
+
+float:left;
+margin: 6% 0 0 25%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#tehnika
+{
+
+float:left;
+margin: 6% 0 0 25%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#kompjuteri
+{
+
+float:left;
+margin: 6% 0 0 15%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+
+div#ostalom
+{
+
+float:left;
+margin: 6% 0 0 28%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#kuhinja
+{
+
+float:left;
+margin: 6% 0 0 26%;	
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#kupaonica
+{
+
+float:left;
+margin: 6% 0 0 20%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#dnevnasoba
+{
+
+float:left;
+margin: 6% 0 0 12%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#spavacasoba
+{
+
+float:left;
+margin: 6% 0 0 10%;	
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#vrt
+{
+
+float:left;
+margin: 6% 0 0 38%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#dekor
+{
+
+float:left;
+margin: 6% 0 0 30%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#auti
+{
+
+float:left;
+margin: 6% 0 0 35%;	
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#motori
+{
+
+float:left;
+margin: 6% 0 0 29%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#bicikli
+{
+
+float:left;
+margin: 6% 0 0 32%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#jahte
+{
+
+float:left;
+margin: 6% 0 0 32%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#camci
+{
+
+float:left;
+margin: 6% 0 0 30%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#oprema
+{
+
+float:left;
+margin: 6% 0 0 25%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#psi
+{
+
+float:left;
+margin: 6% 0 0 39%;	
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#macke
+{
+
+float:left;
+margin: 6% 0 0 30%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#ptice
+{
+
+float:left;
+margin: 6% 0 0 34%;	
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#ostalolj
+{
+
+float:left;
+margin: 6% 0 0 29%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#hrana
+{
+
+float:left;
+margin: 6% 0 0 30%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+div#igracke
+{
+
+float:left;
+margin: 6% 0 0 25%;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:14px;
+font-weight:bold;
+text-align:centar;
+text-decoration:blink;	
+height:40px;
+width:100px;
+}
+.containeroglas
+{
+
+margin:0 auto;
+margin-top:80px;
+width:940px;
+height: 571px;
+text-align:left;
+background-color:#EB0000;
+background-image:url(oglas.jpg);
+background-size:contain;
+
+
+}
+form#oglas
+{
+	margin: 0 125px 0 125px;
+    float:left;
+    width:565px;
+    height: 525px;
+    text-align:left;
+    background-color:#F89000;
+	color: #530000;
+	
+
+}
+legend#rubformeoglas
+{
+	color: #530000;
+	font-size:50px;
+}
+p#prviinputoglas
+{
+	margin: 20px 0 0 0;
+}
+textarea#opis
+{
+	margin: -15px 100px 0 0;
+}
+p#pprijava
+{
+	margin: 100px auto;
+}
+input#psubmit
+{
+	margin: -125px 122px 0 0;
+	font-size:18px;
+}
+form#prijava
+{
+	margin: 100px 125px 0 175px;
+    float:left;
+    width:465px;
+    height: 300px;
+    text-align:left;
+    background-color:#F89000;
+	color: #530000;
+	
+
+}
+fieldset#pfield
+{
+	border-color:#9F1C21;
+	border-style:solid;
+	height:278px;
+}
+div#containerprijava
+{
+margin:0 auto;
+margin-top:80px;
+width:940px;
+height: 571px;
+text-align:left;
+background-color:#EB0000;
+background-image:url(prijavaback.png);
+
+
+}
+p#prviinputkontakt
+{
+	margin: 20px 0 0 0;
+	text-align:center;
+	
+}
+p#goran
+{
+	margin: 20px 0 0 0;
+}
+p#megy
+{
+	margin: 20px 0 0 0;
+}
+table{
+	border-color:#424242;
+	background-color:#F89D0D;
+    margin-left: auto;
+    margin-right: auto;
+	border-style:solid;
+	border-width:3px;
+    width: 600px;
+	text-align:center;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:15px;
+	height:254px;
+	color:#700025;
+	font-weight:bold;
+	border-top:hidden;
+
+
+}
+
+tr, td {
+    border-color:#424242;
+	border-style:solid;
+	border-width: 2px;
+    width: 200px;
+}
+.prikaz
+{
+float:left;
+width:816px;
+height: 525px;
+text-align:left;
+background-color:#BC003F;
+overflow:scroll;
+}
+div#registerlijevoona
+{
+	margin: -5% 0 0 0;
+	float:left;
+	height:247px;
+    width:119px;
+	background-image:url(onalijevo.jpg);
+	background-size:cover;
+}
+div#registerlijevoon
+{
+	margin: -5% 0 0 0;
+	float:left;
+	height:247px;
+    width:119px;
+	background-image:url(onlijevo.jpg);
+	background-size:cover;
+}
+div#registerlijevomulti
+{
+	margin: -5% 0 0 0;
+	float:left;
+	height:247px;
+    width:119px;
+	background-image:url(multilijevo.jpeg);
+	background-size:cover;
+}
+div#registerlijevosvezakucu
+{
+	margin: -5% 0 0 0;
+	float:left;
+	height:247px;
+    width:119px;
+	background-image:url(svezakuculijevo.jpg);
+	background-size:cover;
+}
+div#registerlijevovozila
+{
+	margin: -5% 0 0 0;
+	float:left;
+	height:247px;
+    width:119px;
+	background-image:url(vozilalijevo.jpg);
+	background-size:cover;
+}
+div#registerlijevoljubimci
+{
+	margin: -5% 0 0 0;
+	float:left;
+	height:247px;
+    width:119px;
+	background-image:url(ljubimcilijevo.jpg);
+	background-size:cover;
+}
+div#registerlijevoostalo
+{
+	margin: -5% 0 0 0;
+	float:left;
+	height:247px;
+    width:119px;
+	background-image:url(ostalolijevo.jpg);
+	background-size:cover;
+}
+div#prikazon
+{
+	background-color:#00358A;
+}
+div#prikazmulti
+{
+	background-color:#35241D;
+}
+div#prikazvozila
+{
+	background-color:#767579;
+}
+div#prikazljubimci
+{
+	background-color:#A64417;
+}
+div#prikazostalo
+{
+	background-color:#AF0000;
+}
+th#broj
+{
+	text-decoration:none;
+}
+.linklijevo
+{
+	color:#AF0000;
+}
